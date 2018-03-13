@@ -10,10 +10,6 @@
 - one of the **heavy-weight** dependencies is [puppeteer](https://github.com/GoogleChrome/puppeteer)
 - puppeteer related troubleshooting: [here](https://github.com/GoogleChrome/puppeteer/issues)
 
-## Contributing
-- Pull requests and stars are highly welcome.
-- For bugs and feature requests, please [create an issue](https://github.com/GARENFEATHER/hexo-filter-mermaid/issues/new).
-
 ## Credits
 
 -  Many thanks to the [hexo-filter-flowchart](https://github.com/bubkoo/hexo-filter-flowchart) project for providing the template
