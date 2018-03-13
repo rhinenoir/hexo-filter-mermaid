@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-mermaid",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "description": "mermaid for hexo",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,24 @@
     "url": "git@github.com:GARENFEATHER/hexo-filter-mermaid.git"
   },
   "keywords": [
-    "mermaid"
+    "hexo",
+    "filter",
+    "mermaid",
+    "diagrams",
+    "markdown"
   ],
-  "author": "GARENFEATHER",
+  "author": {
+    "name": "garenfeather",
+    "email": "garenfeather@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/GARENFEATHER/hexo-filter-mermaid/issues"
   },
-  "homepage": "https://github.com/GARENFEATHER/hexo-filter-mermaid"
+  "homepage": "https://github.com/GARENFEATHER/hexo-filter-mermaid",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "puppeteer": "^1.0.0"
+  }
 }
