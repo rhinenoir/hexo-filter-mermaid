@@ -7,8 +7,13 @@
 
 ## Notice（！）
 
-- one of the **heavy-weight** dependencies is [puppeteer](https://github.com/GoogleChrome/puppeteer)
-- puppeteer related troubleshooting: [here](https://github.com/GoogleChrome/puppeteer/issues)
+- One of the **heavy-weight** dependencies is [puppeteer](https://github.com/GoogleChrome/puppeteer)
+- Puppeteer related troubleshooting: [here](https://github.com/GoogleChrome/puppeteer/issues)
+
+## Documentation
+
+- [https://mermaidjs.github.io/](https://mermaidjs.github.io/)
+- Original project: [mermaid](https://github.com/knsv/mermaid)
 
 ## Credits
 
@@ -18,7 +23,11 @@
 ## Contributing
 
 - Pull requests and stars are aways highly welcome.
-
 - For bugs and feature requests, please  [create an issue](https://github.com/GARENFEATHER/hexo-filter-mermaid/issues/new).
+
+### Todo
+
+- Fix rendering bug of  `gitgraph`
+- Create new issue for  `gantt` graph
 
 > Written with [StackEdit](https://stackedit.io/).
