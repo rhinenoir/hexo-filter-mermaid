@@ -29,5 +29,6 @@
 
 - Fix rendering bug of  `gitgraph`
 - Create new issue for  `gantt` graph
+- Fix '<foreignObject>' related bug(not comfirmed)
 
 > Written with [StackEdit](https://stackedit.io/).
