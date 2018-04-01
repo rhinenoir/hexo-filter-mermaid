@@ -5,6 +5,7 @@
 
 - [basic graph design demo](https://blog.garenfeather.cn/2018/03/07/my-mermaid-please/)
 - [work with content](https://blog.garenfeather.cn/2018/03/25/openshift-ghost-blog-docker-https/)
+- [large size demo](https://blog.garenfeather.cn/2018/01/20/cdn-p2p-decentralization/)
 
 ## Prerequisites
 
