@@ -1,6 +1,11 @@
 
 # hexo-filter-mermaid
 
+## Demo
+
+- [basic graph design demo](https://blog.garenfeather.cn/2018/03/07/my-mermaid-please/)
+- [work with content](https://blog.garenfeather.cn/2018/03/25/openshift-ghost-blog-docker-https/)
+
 ## Prerequisites
 
 - node 8.9.0（or other version which supports `async/await`）
